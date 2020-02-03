@@ -1,0 +1,273 @@
+,Name,Region
+0,Acton,Antelope Valley
+1,Adams-Normandie,South L.A.
+2,Agoura Hills,Santa Monica Mountains
+3,Agua Dulce,Northwest County
+4,Alhambra,San Gabriel Valley
+5,Alondra Park,South Bay
+6,Altadena,Verdugos
+7,Angeles Crest,Angeles Forest
+8,Arcadia,San Gabriel Valley
+9,Arleta,San Fernando Valley
+10,Arlington Heights,Central L.A.
+11,Artesia,Southeast
+12,Athens,South L.A.
+13,Atwater Village,Northeast L.A.
+14,Avalon,Harbor
+15,Avocado Heights,San Gabriel Valley
+16,Azusa,San Gabriel Valley
+17,Baldwin Hills/Crenshaw,South L.A.
+18,Baldwin Park,San Gabriel Valley
+19,Bel-Air,Westside
+20,Bell,Southeast
+21,Bellflower,Southeast
+22,Bell Gardens,Southeast
+23,Beverly Crest,Westside
+24,Beverly Grove,Central L.A.
+25,Beverly Hills,Westside
+26,Beverlywood,Westside
+27,Boyle Heights,Eastside
+28,Bradbury,San Gabriel Valley
+29,Brentwood,Westside
+30,Broadway-Manchester,South L.A.
+31,Burbank,San Fernando Valley
+32,Calabasas,Santa Monica Mountains
+33,Canoga Park,San Fernando Valley
+34,Carson,Harbor
+35,Carthay,Central L.A.
+36,Castaic,Northwest County
+37,Castaic Canyons,Northwest County
+38,Central-Alameda,South L.A.
+39,Century City,Westside
+40,Cerritos,Southeast
+41,Charter Oak,San Gabriel Valley
+42,Chatsworth,San Fernando Valley
+43,Chatsworth Reservoir,San Fernando Valley
+44,Chesterfield Square,South L.A.
+45,Cheviot Hills,Westside
+46,Chinatown,Central L.A.
+47,Citrus,San Gabriel Valley
+48,Claremont,Pomona Valley
+49,Commerce,Southeast
+50,Compton,Southeast
+51,Covina,San Gabriel Valley
+52,Cudahy,Southeast
+53,Culver City,Westside
+54,Cypress Park,Northeast L.A.
+55,Del Aire,South Bay
+56,Del Rey,Westside
+57,Desert View Highlands,Antelope Valley
+58,Diamond Bar,San Gabriel Valley
+59,Downey,Southeast
+60,Downtown,Central L.A.
+61,Duarte,San Gabriel Valley
+62,Eagle Rock,Northeast L.A.
+63,East Compton,Southeast
+64,East Hollywood,Central L.A.
+65,East La Mirada,Southeast
+66,East Los Angeles,Eastside
+67,East Pasadena,San Gabriel Valley
+68,East San Gabriel,San Gabriel Valley
+69,Echo Park,Central L.A.
+70,Elizabeth Lake,Northwest County
+71,El Monte,San Gabriel Valley
+72,El Segundo,South Bay
+73,El Sereno,Eastside
+74,Elysian Park,Central L.A.
+75,Elysian Valley,Central L.A.
+76,Encino,San Fernando Valley
+77,Exposition Park,South L.A.
+78,Fairfax,Central L.A.
+79,Florence,South L.A.
+80,Florence-Firestone,South L.A.
+81,Gardena,South Bay
+82,Glassell Park,Northeast L.A.
+83,Glendale,Verdugos
+84,Glendora,San Gabriel Valley
+85,Gramercy Park,South L.A.
+86,Granada Hills,San Fernando Valley
+87,Green Meadows,South L.A.
+88,Green Valley,Northwest County
+89,Griffith Park,Central L.A.
+90,Hacienda Heights,San Gabriel Valley
+91,Hancock Park,Central L.A.
+92,Hansen Dam,San Fernando Valley
+93,Harbor City,Harbor
+94,Harbor Gateway,Harbor
+95,Harvard Heights,Central L.A.
+96,Harvard Park,South L.A.
+97,Hasley Canyon,Northwest County
+98,Hawaiian Gardens,Harbor
+99,Hawthorne,South Bay
+100,Hermosa Beach,South Bay
+101,Hidden Hills,Santa Monica Mountains
+102,Highland Park,Northeast L.A.
+103,Historic South-Central,South L.A.
+104,Hollywood,Central L.A.
+105,Hollywood Hills,Central L.A.
+106,Hollywood Hills West,Central L.A.
+107,Huntington Park,Southeast
+108,Hyde Park,South L.A.
+109,Industry,San Gabriel Valley
+110,Inglewood,South Bay
+111,Irwindale,San Gabriel Valley
+112,Jefferson Park,South L.A.
+113,Koreatown,Central L.A.
+114,La Cañada Flintridge,Verdugos
+115,La Crescenta-Montrose,Verdugos
+116,Ladera Heights,Westside
+117,La Habra Heights,San Gabriel Valley
+118,Lake Balboa,San Fernando Valley
+119,Lake Hughes,Northwest County
+120,Lake Los Angeles,Antelope Valley
+121,Lake View Terrace,San Fernando Valley
+122,Lakewood,Harbor
+123,La Mirada,Southeast
+124,Lancaster,Antelope Valley
+125,La Puente,San Gabriel Valley
+126,Larchmont,Central L.A.
+127,La Verne,Pomona Valley
+128,Lawndale,South Bay
+129,Leimert Park,South L.A.
+130,Lennox,South Bay
+131,Leona Valley,Antelope Valley
+132,Lincoln Heights,Eastside
+133,Littlerock,Antelope Valley
+134,Lomita,South Bay
+135,Long Beach,Harbor
+136,Lopez/Kagel Canyons,Angeles Forest
+137,Los Feliz,Central L.A.
+138,Lynwood,Southeast
+139,Malibu,Santa Monica Mountains
+140,Manchester Square,South L.A.
+141,Manhattan Beach,South Bay
+142,Marina del Rey,Westside
+143,Mar Vista,Westside
+144,Mayflower Village,San Gabriel Valley
+145,Maywood,Southeast
+146,Mid-City,Central L.A.
+147,Mid-Wilshire,Central L.A.
+148,Mission Hills,San Fernando Valley
+149,Monrovia,San Gabriel Valley
+150,Montebello,Southeast
+151,Montecito Heights,Northeast L.A.
+152,Monterey Park,San Gabriel Valley
+153,Mount Washington,Northeast L.A.
+154,Northeast Antelope Valley,Antelope Valley
+155,North El Monte,San Gabriel Valley
+156,North Hills,San Fernando Valley
+157,North Hollywood,San Fernando Valley
+158,Northridge,San Fernando Valley
+159,Northwest Antelope Valley,Antelope Valley
+160,Northwest Palmdale,Antelope Valley
+161,North Whittier,San Gabriel Valley
+162,Norwalk,Southeast
+163,Pacific Palisades,Westside
+164,Pacoima,San Fernando Valley
+165,Palmdale,Antelope Valley
+166,Palms,Westside
+167,Palos Verdes Estates,South Bay
+168,Panorama City,San Fernando Valley
+169,Paramount,Southeast
+170,Pasadena,Verdugos
+171,Pico Rivera,Southeast
+172,Pico-Robertson,Westside
+173,Pico-Union,Central L.A.
+174,Playa del Rey,South Bay
+175,Playa Vista,Westside
+176,Pomona,Pomona Valley
+177,Porter Ranch,San Fernando Valley
+178,Quartz Hill,Antelope Valley
+179,Ramona,San Gabriel Valley
+180,Rancho Dominguez,Harbor
+181,Rancho Palos Verdes,South Bay
+182,Rancho Park,Westside
+183,Redondo Beach,South Bay
+184,Reseda,San Fernando Valley
+185,Ridge Route,Northwest County
+186,Rolling Hills,South Bay
+187,Rolling Hills Estates,South Bay
+188,Rosemead,San Gabriel Valley
+189,Rowland Heights,San Gabriel Valley
+190,San Dimas,San Gabriel Valley
+191,San Fernando,San Fernando Valley
+192,San Gabriel,San Gabriel Valley
+193,San Marino,San Gabriel Valley
+194,San Pasqual,San Gabriel Valley
+195,San Pedro,Harbor
+196,Santa Clarita,Northwest County
+197,Santa Fe Springs,Southeast
+198,Santa Monica,Westside
+199,Sawtelle,Westside
+200,Sepulveda Basin,San Fernando Valley
+201,Shadow Hills,San Fernando Valley
+202,Sherman Oaks,San Fernando Valley
+203,Sierra Madre,San Gabriel Valley
+204,Signal Hill,Harbor
+205,Silver Lake,Central L.A.
+206,South Diamond Bar,San Gabriel Valley
+207,Southeast Antelope Valley,Antelope Valley
+208,South El Monte,San Gabriel Valley
+209,South Gate,Southeast
+210,South Park,South L.A.
+211,South Pasadena,San Gabriel Valley
+212,South San Gabriel,San Gabriel Valley
+213,South San Jose Hills,San Gabriel Valley
+214,South Whittier,Southeast
+215,Stevenson Ranch,Northwest County
+216,Studio City,San Fernando Valley
+217,Sunland,Verdugos
+218,Sun Valley,San Fernando Valley
+219,Sun Village,Antelope Valley
+220,Sylmar,San Fernando Valley
+221,Tarzana,San Fernando Valley
+222,Temple City,San Gabriel Valley
+223,Toluca Lake,San Fernando Valley
+224,Topanga,Santa Monica Mountains
+225,Torrance,South Bay
+226,Tujunga,Verdugos
+227,Tujunga Canyons,Angeles Forest
+228,Unincorporated Catalina Island,Harbor
+229,Unincorporated Santa Monica Mountains,Santa Monica Mountains
+230,Unincorporated Santa Susana Mountains,Northwest County
+231,Universal City,San Fernando Valley
+232,University Park,South L.A.
+233,Valinda,San Gabriel Valley
+234,Valley Glen,San Fernando Valley
+235,Valley Village,San Fernando Valley
+236,Val Verde,Northwest County
+237,Van Nuys,San Fernando Valley
+238,Venice,Westside
+239,Vermont Knolls,South L.A.
+240,Vermont-Slauson,South L.A.
+241,Vermont Square,South L.A.
+242,Vermont Vista,South L.A.
+243,Vernon,Southeast
+244,Veterans Administration,Westside
+245,View Park-Windsor Hills,South L.A.
+246,Vincent,San Gabriel Valley
+247,Walnut,San Gabriel Valley
+248,Walnut Park,Southeast
+249,Watts,South L.A.
+250,West Adams,South L.A.
+251,West Carson,Harbor
+252,Westchester,South Bay
+253,West Compton,Southeast
+254,West Covina,San Gabriel Valley
+255,West Hills,San Fernando Valley
+256,West Hollywood,Central L.A.
+257,Westlake,Central L.A.
+258,Westlake Village,Santa Monica Mountains
+259,West Los Angeles,Westside
+260,Westmont,South L.A.
+261,West Puente Valley,San Gabriel Valley
+262,West San Dimas,San Gabriel Valley
+263,West Whittier-Los Nietos,Southeast
+264,Westwood,Westside
+265,Whittier,San Gabriel Valley
+266,Whittier Narrows,San Gabriel Valley
+267,Willowbrook,South L.A.
+268,Wilmington,Harbor
+269,Windsor Square,Central L.A.
+270,Winnetka,San Fernando Valley
+271,Woodland Hills,San Fernando Valley

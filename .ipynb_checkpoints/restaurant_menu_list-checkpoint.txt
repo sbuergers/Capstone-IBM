@@ -1,0 +1,1 @@
+[["apple juice", "Apple pie"], ["Vegan burger", "Steak with cheese"], ["Impossible burger (vegan friendly)", "potatoe chips (vegan option possible)"]]
